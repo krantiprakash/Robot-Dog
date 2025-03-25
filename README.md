@@ -17,7 +17,7 @@ Follow these steps to create and build your ROS 2 workspace:
 2.  **Clone the robot's repository:**
 
     ```bash
-    git clone https://github.com/Aditya-Bhargava-2000/unitreeb2_ws  
+    git clone https://github.com/krantiprakash/Robot-Dog/tree/main
     ```
 
 
