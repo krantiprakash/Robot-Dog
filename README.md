@@ -1,7 +1,7 @@
 # Robot-Dog
 # Spot Mini Workspace Setup
 
-This guide shows the steps to set up a ROS 2 workspace for the Unitree B2 robot, including building the workspace, launching the robot model in Mujoco and RViz, and making the robot stand.
+This guide shows the steps to set up a ROS 2 workspace for the Boston Dynamics Spot mini robot, including building the workspace, launching the robot model in Mujoco, and making the robot stand.
 
 ## 1. Create and Build the ROS 2 Workspace
 
@@ -31,7 +31,7 @@ Follow these steps to create and build your ROS 2 workspace:
 
 ## 2. Launch the Robot Model in Mujoco and RViz with ROS 2 Effort Controller
 
-To visualize and control the Unitree B2 robot model, launch the following ROS 2 launch file:
+To visualize and control the Boston Dynamics Spot mini robot model, launch the following ROS 2 launch file:
 
 ```bash
 ros2 launch spot_description spot_effort.launch.py
