@@ -1,5 +1,5 @@
 # Robot-Dog
-# Unitree B2 Workspace Setup
+# Spot Mini Workspace Setup
 
 This guide outlines the steps to set up a ROS 2 workspace for the Unitree B2 robot, including building the workspace, launching the robot model in Mujoco and RViz, and making the robot stand.
 
