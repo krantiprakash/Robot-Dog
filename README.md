@@ -17,7 +17,7 @@ Follow these steps to create and build your ROS 2 workspace:
 2.  **Clone the robot's repository:**
 
     ```bash
-    git clone https://github.com/krantiprakash/Robot-Dog/tree/main
+    git clone https://github.com/krantiprakash/Robot-Dog/tree/main/bostondynamics_spot_ws
     ```
 
 
