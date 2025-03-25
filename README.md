@@ -10,8 +10,8 @@ Follow these steps to create and build your ROS 2 workspace:
 1.  **Create the workspace directory:**
 
     ```bash
-    mkdir -p unitreeb2_ws/src
-    cd unitreeb2_ws/src
+    mkdir -p bostondynamics_spot_ws/src
+    cd bostondynamics_spot_ws/src
     ```
 
 2.  **Clone the robot's repository:**
@@ -34,12 +34,12 @@ Follow these steps to create and build your ROS 2 workspace:
 To visualize and control the Unitree B2 robot model, launch the following ROS 2 launch file:
 
 ```bash
-ros2 launch b2_description b2_effort.launch.py
+ros2 launch spot_description spot_effort.launch.py
  ```
 
 ## 3. Make the Robot Stand
 ```bash
-ros2 run b2_movement stand
+ros2 run my_package my_node
 ```
 
 
